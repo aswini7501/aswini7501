@@ -33,8 +33,9 @@
 
 <br>
 
-<!-- GITHUB POWER FULL WIDTH -->
-<table width="100%">
+<!-- GITHUB POWER CENTERED -->
+<div align="center">
+<table width="80%">
 <tr>
 <td bgcolor="#1e1b4b" align="center">
 
@@ -47,11 +48,13 @@
 </td>
 </tr>
 </table>
+</div>
 
 <br>
 
-<!-- CONNECT WITH ME FULL WIDTH -->
-<table width="100%" bgcolor="#020617">
+<!-- CONNECT WITH ME CENTERED -->
+<div align="center">
+<table width="80%" bgcolor="#020617">
 <tr>
 <td colspan="3" align="center">
 <h2 style="color:#60a5fa;">🌍 CONNECT WITH ME</h2>
@@ -78,6 +81,7 @@ GitHub Profile
 </td>
 </tr>
 </table>
+</div>
 
 <br>
 
