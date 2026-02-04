@@ -7,39 +7,33 @@
 
 <br>
 
+<!-- WHO I AM + TECH UNIVERSE SIDE BY SIDE -->
 <table width="100%">
 <tr>
-<td bgcolor="#020617" align="center">
 
-<h2 style="color:#facc15;">👨‍💻 WHO AM I?</h2>
+<td width="50%" bgcolor="#020617" align="center">
+<h2 style="color:#facc15;">👨‍💻 WHO I AM</h2>
 <p style="color:#e5e7eb;">
-🚀 DevOps Engineer focused on automation <br>
-☁️ Building cloud-native infrastructure <br>
+🚀 DevOps Engineer passionate about automation <br>
+☁️ Building and managing cloud infrastructure <br>
 📦 Docker & Kubernetes practitioner <br>
-🔁 CI/CD Pipeline specialist <br>
-🎯 Dream: Cloud Architect
+🔁 CI/CD pipeline specialist <br><br>
+🎯 <b>Short-term Goal:</b> Become a <b>Senior DevOps Engineer</b> <br>
+🌈 <b>Life Goal:</b> Be happy doing meaningful work
 </p>
-
 </td>
-</tr>
-</table>
 
-<br>
-
-<table width="100%">
-<tr>
-<td bgcolor="#0f172a" align="center">
-
+<td width="50%" bgcolor="#0f172a" align="center">
 <h2 style="color:#34d399;">🧰 TECH UNIVERSE</h2>
-
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,terraform,linux,python,git" />
-
 </td>
+
 </tr>
 </table>
 
 <br>
 
+<!-- GITHUB DASHBOARD -->
 <table width="100%">
 <tr>
 <td bgcolor="#1e1b4b" align="center">
@@ -56,17 +50,25 @@
 
 <br>
 
-<table width="100%">
+<!-- CONNECT WITH ME TABLE -->
+<table width="100%" bgcolor="#020617">
 <tr>
-<td bgcolor="#020617" align="center">
+<th style="color:#60a5fa;">📧 Email</th>
+<th style="color:#60a5fa;">💼 LinkedIn</th>
+<th style="color:#60a5fa;">🌐 GitHub</th>
+</tr>
 
-<h2 style="color:#60a5fa;">🌍 CONNECT ZONE</h2>
-<p style="color:#e5e7eb;">
-📧 aswinibonigeni7501@gmail.com <br>
-💼 <a href="https://www.linkedin.com/in/aswini-bonigeni-b830a1255/" target="_blank" style="color:#38bdf8;">LinkedIn</a> <br>
-🌐 <a href="https://github.com/aswini7501" target="_blank" style="color:#38bdf8;">GitHub</a>
-</p>
-
+<tr align="center" style="color:#e5e7eb;">
+<td>aswinibonigeni7501@gmail.com</td>
+<td>
+<a href="https://www.linkedin.com/in/aswini-bonigeni-b830a1255/" target="_blank" style="color:#38bdf8;">
+LinkedIn Profile
+</a>
+</td>
+<td>
+<a href="https://github.com/aswini7501" target="_blank" style="color:#38bdf8;">
+GitHub Profile
+</a>
 </td>
 </tr>
 </table>
@@ -74,7 +76,7 @@
 <br>
 
 <div align="center" style="color:#9ca3af;">
-<i>“Infrastructure should be invisible. Automation should be obvious.”</i>
+<i>“Automation makes work easier, and a happy mind makes work better.”</i>
 </div>
 
 
