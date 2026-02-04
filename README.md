@@ -33,7 +33,7 @@
 
 <br>
 
-<!-- GITHUB DASHBOARD -->
+<!-- GITHUB POWER FULL WIDTH -->
 <table width="100%">
 <tr>
 <td bgcolor="#1e1b4b" align="center">
@@ -50,8 +50,14 @@
 
 <br>
 
-<!-- CONNECT WITH ME TABLE -->
+<!-- CONNECT WITH ME FULL WIDTH -->
 <table width="100%" bgcolor="#020617">
+<tr>
+<td colspan="3" align="center">
+<h2 style="color:#60a5fa;">🌍 CONNECT WITH ME</h2>
+</td>
+</tr>
+
 <tr>
 <th style="color:#60a5fa;">📧 Email</th>
 <th style="color:#60a5fa;">💼 LinkedIn</th>
