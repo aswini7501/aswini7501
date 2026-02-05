@@ -41,9 +41,10 @@
 
 <h2 style="color:#f472b6;">📊 GITHUB POWER</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=aswini7501&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=aswini7501&show_icons=true&theme=tokyonight" />
 <br><br>
-<img src="https://streak-stats.demolab.com?user=aswini7501&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=aswini7501&theme=tokyonight" />
 
 
 </td>
