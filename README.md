@@ -1,7 +1,7 @@
 <div align="center">
 
-<h1 style="color:#22d3ee;">⚡ ASWINI BONIGENI ⚡</h1>
-<h3 style="color:#c7d2fe;">DevOps Engineer • Cloud • Automation</h3>
+<h1 style="color:#38bdf8;">⚡ ASWINI BONIGENI ⚡</h1>
+<h3 style="color:#94a3b8;">DevOps Engineer • Cloud • Automation</h3>
 
 </div>
 
@@ -23,7 +23,7 @@
 </p>
 </td>
 
-<td width="50%" bgcolor="#0f172a" align="center">
+<td width="50%" bgcolor="#020617" align="center">
 <h2 style="color:#34d399;">🧰 TECH UNIVERSE</h2>
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,terraform,linux,python,git" />
 </td>
@@ -33,11 +33,11 @@
 
 <br>
 
-<!-- GITHUB POWER CENTERED -->
+<!-- GITHUB POWER -->
 <div align="center">
-<table width="80%">
+<table width="100%">
 <tr>
-<td bgcolor="#1e1b4b" align="center">
+<td bgcolor="#020617" align="center">
 
 <h2 style="color:#f472b6;">📊 GITHUB POWER</h2>
 
@@ -52,9 +52,9 @@
 
 <br>
 
-<!-- CONNECT WITH ME CENTERED -->
+<!-- CONNECT WITH ME -->
 <div align="center">
-<table width="80%" bgcolor="#020617">
+<table width="100%" bgcolor="#020617">
 <tr>
 <td colspan="3" align="center">
 <h2 style="color:#60a5fa;">🌍 CONNECT WITH ME</h2>
@@ -62,9 +62,9 @@
 </tr>
 
 <tr>
-<th style="color:#60a5fa;">📧 Email</th>
-<th style="color:#60a5fa;">💼 LinkedIn</th>
-<th style="color:#60a5fa;">🌐 GitHub</th>
+<th style="color:#94a3b8;">📧 Email</th>
+<th style="color:#94a3b8;">💼 LinkedIn</th>
+<th style="color:#94a3b8;">🌐 GitHub</th>
 </tr>
 
 <tr align="center" style="color:#e5e7eb;">
@@ -85,8 +85,7 @@ GitHub Profile
 
 <br>
 
-<div align="center" style="color:#9ca3af;">
+<div align="center" style="color:#94a3b8;">
 <i>“Automation makes work easier, and a happy mind makes work better.”</i>
 </div>
-
 
